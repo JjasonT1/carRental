@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.row {
+  background: #fff;
+  box-shadow: 12px 12px 22px;
+}
+
+.login h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+
+.tp {
+  height: 50px;
+  width: 70%;
+  border: 1px solid rgb(219, 219, 219);
+  outline: none;
+  border-radius: 50px;
+  box-shadow: -3px 29px 42px -12px rgba(0, 0, 0, 0.64);
+  -webkit-box-shadow: -3px 29px 42px -12px rgba(0, 0, 0, 0.64);
+  -moz-box-shadow: -3px 29px 42px -12px rgba(0, 0, 0, 0.64);
+}
+
+body {
+  background-color: rgb(219, 219, 219);
+}
+
+.btn1 {
+  height: 50px;
+  width: 70%;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  font-weight: 600;
+  background: #20b2aa;
+  color: #fff;
+}
+
+.btn1:hover {
+  background: #fe4066;
+  transition: 0.4s;
+}
+
+.btn2 {
+  height: 50px;
+  width: 70%;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  font-weight: 600;
+  background: #fe4066;
+  color: #fff;
+}
+
+.btn2:hover {
+  background: #20b2aa;
+  transition: 0.4s;
+}
+
+.btn {
+  height: 50px;
+  width: 70%;
+  border-radius: 50px;
+  font-weight: 600;
+  background: #7c7c7c;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.btn:hover {
+  background: #20b2aa;
+  transition: 0.4s;
+  color: #fff;
+}
